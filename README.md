@@ -22,4 +22,4 @@ https://github.com/neomjs/liquid-glass-demo/blob/main/apps/myapp/view/GlassCompo
 The demo is based on Christian's React implementation:</br>
 https://github.com/ChristianHoffmannS2/liquid-glass-demo
 
-<img src="./apps/myapp/resources/images/room.jpg">
+<img src="./resources/images/preview.png">
